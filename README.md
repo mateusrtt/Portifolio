@@ -16,7 +16,7 @@ O portfólio é dividido em três seções principais:
 - **CSS**: Estilização e design do site.
 - **Responsividade**: O site foi desenvolvido para garantir uma experiência de usuário em dispositivos de diferentes tamanhos, utilizando media queries para adaptar o layout.
 
-- # Link do projeto do meu portifólio:
+- # Link do projeto do meu portifólio
 
 - https://mateusrtt.github.io/Portifolio/
 
